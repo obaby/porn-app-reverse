@@ -1,0 +1,6 @@
+app_screenshots/
+/app_screenshots/
+venv/
+/venv/
+.idea/
+/.idea/
